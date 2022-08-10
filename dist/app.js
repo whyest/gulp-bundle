@@ -1,0 +1,1 @@
+"use strict";var a=1;console.log(a);var obj={},prop=null==obj?void 0:obj.prop;
